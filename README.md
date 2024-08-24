@@ -2,7 +2,10 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
+<h1>osTicket - Ticket Lifecycle: Intake Through Resolution (Draft)</h1>
+
+**Note: This project is currently a work in progress. Updates and additional details are being added regularly.**
+
 This project outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
